@@ -1,0 +1,38 @@
+head{
+	font-family: Arial;
+}
+
+.centered {
+    text-align: center;
+}
+
+body {
+    font-family: Arial; 
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 100%;
+  text-align:center;
+}
+
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.parent {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .parent img {
+        width: 200px;
+        height: 200px;
+        padding: 3px;
+        margin-left: 3px;
+      }
