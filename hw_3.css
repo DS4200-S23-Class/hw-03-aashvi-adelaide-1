@@ -14,6 +14,11 @@ body {
   display: flex;
 }
 
+.Acknowledgements h2{
+	text-align:center;
+}
+
+
 .column {
   flex: 100%;
   text-align:center;
